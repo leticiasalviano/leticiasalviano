@@ -63,7 +63,7 @@ Me chamo Letícia Salviano, tenho 24 anos e sou natural do Rio de Janeiro. Atual
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=leticiasalviano&show_icons=true&theme=jolly&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=leticiasalviano&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
 
 
@@ -72,7 +72,7 @@ Me chamo Letícia Salviano, tenho 24 anos e sou natural do Rio de Janeiro. Atual
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasalviano&theme=jollye&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasalviano&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
